@@ -1,5 +1,7 @@
 from py2cscontrols import Point, Segment, Transeg, Control
 
+#----
+
 pA1 = Point(0, 0)
 pA2 = Point(1, 1)
 segA = Segment(pA1, pA2, 0)
